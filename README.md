@@ -13,4 +13,4 @@ I am a JavaScript developer and web designer. Nice to meet ya.
 - 🤔 I’m looking for help with my social life! :D
 - 💬 Ask me about anything! I'm a friendly bud, but also I like games, anime and all kinds of music.
 - 📫 How to reach me: you can always <a href="mailto://grpccode@gmail.com?subject=Hi Grapes!">shoot me an email</a> or send me a Discord (Grapes#1812)
-- ⚡ Fun fact: I step on a Lego once, now my leg is missing. Email me if you find it...please.
+- ⚡ Fun fact: I steped on a Lego once, now my leg is missing. Email me if you find it...please.
