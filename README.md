@@ -1,5 +1,5 @@
-<h2 align="center">Hi! I'm a Grape.<br></h2>
-<h2 align="center">I'm a web designer and developer.<br></h2>
+<h2 align="center">Hi! I'm a Grape.</h2>
+<p align="center">I'm a web designer and developer.<br></p>
 
 <h3 align="center">Languages I know:<br></h3>
 
