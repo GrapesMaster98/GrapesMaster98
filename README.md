@@ -33,6 +33,12 @@
   <b>MagicMoon as a designer and developer.<b>
   <b>Some Discord bots<b>
 </p>
+    
+<h3 align="center">Want to chat?<br></h3>
+
+<p align="center">
+  <b>Email me <a href="mailto:oliverklassen@protonmail.com?subject=Hi Grapes"<b>  
+</p>
 
 <br>
 
