@@ -37,7 +37,7 @@
 <h3 align="center">Want to chat?<br></h3>
 
 <p align="center">
-  <b>Email me <a href="mailto:oliverklassen@protonmail.com?subject=Hi Grapes"<b>  
+  <b><a href="mailto:oliver.k@magicmoon.dev?subject=Hi Grapes">Email me</a><b>
 </p>
 
 <br>
