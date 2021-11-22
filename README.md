@@ -31,13 +31,13 @@
 
 <p align="center">
   <b>MagicMoon as a designer and developer.<b>
-  <b>Some Discord bots<b>
+  <b>PloxHost as a support representative.</b>
 </p>
     
 <h3 align="center">Want to chat?<br></h3>
 
 <p align="center">
-  <b><a href="mailto:oliver.k@magicmoon.dev?subject=Hi Grapes">Email me</a><b>
+  <b><a href="mailto:contacto@gapes.codes?subject=Hi Grapes!">Email me</a><b>
 </p>
 
 <br>
