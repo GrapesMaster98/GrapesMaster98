@@ -30,7 +30,7 @@
 <h3 align="center">I'm currenlty working on...<br></h3>
 
 <p align="center">
-  <b>MagicMoon as a designer and developer.<b>
+  <b>AurealisStudios as the chief of operations.<b>
   <b>PloxHost as a support representative.</b>
 </p>
     
