@@ -37,7 +37,7 @@
 <h3 align="center">Want to chat?<br></h3>
 
 <p align="center">
-  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a><b>
+  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a> Please note, I am currently not taking personal comissions or work, as I'm focusing on my college studies.<b>
 </p>
 
 <br>
