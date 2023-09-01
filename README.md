@@ -24,7 +24,7 @@
 <h3 align="center">I'm currenlty learning...<br></h3>
 
 <p align="center">
-  <b>I'm currently a college student, studying Game Development! My other projects aside from PloxHost and Aurelais Studios are <strong>ON HOLD</strong>strong></b>
+  <b>I'm currently a college student, studying Game Development! My other projects aside from PloxHost and Aurelais Studios are <strong>ON HOLD</strong></b>
 </p>
 
 <h3 align="center">I'm currenlty working on...<br></h3>
