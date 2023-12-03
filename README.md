@@ -8,7 +8,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">    
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">  
-  <img alt="JavaScript" src="https://img.shields.io/badge/-cplusplus?style=flat&logo=cpp">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-cplusplus-23272A?style=flat&logo=cpp">
 </p>
 <h3 align="center">Frameworks & Technologies I utilize:<br></h3>
 <p align="center">
@@ -20,7 +20,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">  
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
-  <img alt="CLion" src="https://img.shields.io/badge/-clion?style=flat&logo=clion">
+  <img alt="CLion" src="https://img.shields.io/badge/-clion-23272A?style=flat&logo=clion">
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">    
 </p>
 
