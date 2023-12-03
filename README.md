@@ -1,12 +1,14 @@
 <h2 align="center">Hi! I'm a Grape.</h2>
-<p align="center">I'm a web designer and developer.<br></p>
-
+<p align="center">I'm studying game development and other stuff.<br></p>
+<p align="center">Also, I'm an anime girl now. Isn't that cool?<br></p>
+ 
 <h3 align="center">Languages I know:<br></h3>
 
 <p align="center">  
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">    
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-cplusplus?style=flat&logo=cpp">
 </p>
 <h3 align="center">Frameworks & Technologies I utilize:<br></h3>
 <p align="center">
@@ -18,13 +20,14 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">  
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="CLion" src="https://img.shields.io/badge/-clion?style=flat&logo=clion">
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">    
 </p>
 
 <h3 align="center">I'm currenlty learning...<br></h3>
 
 <p align="center">
-  <b>I'm currently a college student, studying Game Development! My other projects aside from PloxHost and Aurelais Studios are <strong>ON HOLD</strong></b>
+  <b>I'm currently a college student, studying Game Development! My other projects are <strong>ON HOLD</strong></b>
 </p>
 
 <h3 align="center">I'm currenlty working on...<br></h3>
@@ -32,12 +35,13 @@
 <p align="center">
   <b>AurealisStudios as creative director.<b>
   <b>PloxHost as a support team lead.</b>
+  <b>A plethora of projects.</b>
 </p>
     
 <h3 align="center">Want to chat?<br></h3>
 
 <p align="center">
-  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a></b> <br>Please note, I am currently not taking personal comissions or work, as I'm focusing on my college studies.
+  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a></b> <br>Please note, I am currently <strong>not</strong>strong taking personal comissions or work, as I'm focusing on my college studies.
 </p>
 
 <br>
