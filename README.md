@@ -1,6 +1,5 @@
 <h2 align="center">Hi! I'm a Grape.</h2>
 <p align="center">I'm studying game development and other stuff.<br></p>
-<p align="center">Also, I'm an anime girl now. Isn't that cool?<br></p>
  
 <h3 align="center">Languages I know:<br></h3>
 
@@ -27,13 +26,13 @@
 <h3 align="center">I'm currenlty learning...<br></h3>
 
 <p align="center">
-  <b>I'm currently a college student, studying Game Development! My other projects are <strong>ON HOLD</strong></b>
+  <b>A lot of stuff...</b>
 </p>
 
 <h3 align="center">I'm currenlty working on...<br></h3>
 
 <p align="center">
-  <b>AurealisStudios as creative director.<b>
+  <b>LoveSecret as the main developer<b>
   <b>PloxHost as a support team lead.</b>
   <b>A plethora of projects.</b>
 </p>
@@ -41,7 +40,7 @@
 <h3 align="center">Want to chat?<br></h3>
 
 <p align="center">
-  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a></b> <br>Please note, I am currently <strong>not</strong>strong taking personal comissions or work, as I'm focusing on my college studies.
+  <b><a href="mailto:grpccode@gmail.com?subject=Hi Grapes!">Email me</a></b> <br>Please note, I am currently <strong>not</strong> taking personal comissions.
 </p>
 
 <br>
