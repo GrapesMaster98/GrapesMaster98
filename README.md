@@ -1,5 +1,5 @@
 <h2 align="center">Hi!</h2>
-<p align="center">I'm a game developmer.<br></p>
+<p align="center">I'm a game developer.<br></p>
  
 <h3 align="center">Languages I know:<br></h3>
 
