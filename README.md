@@ -18,9 +18,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">  
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
-  <img alt="CLion" src="https://img.shields.io/badge/-clion-23272A?style=flat&logo=clion">
-  <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">    
+  <img alt="GitHub" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
 <h3 align="center">I'm currenlty learning...<br></h3>
@@ -32,7 +30,6 @@
 <h3 align="center">I'm currenlty working on...<br></h3>
 
 <p align="center">
-  <b>LoveSecret as the main developer<b>
   <b>PloxHost as a support team lead.</b>
   <b>A plethora of projects.</b>
 </p>
